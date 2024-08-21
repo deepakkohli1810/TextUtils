@@ -1,2 +1,2 @@
 # TextUtils
-It is a app which allows users to do different things.
+It is a app which allows users to do different operations on given paragraph a single line sentences.
